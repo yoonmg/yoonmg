@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lightstar)](https://solved.ac/lightstar/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonmg&theme=synthwave&show_icons=true)
+
 ***Tools***
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
